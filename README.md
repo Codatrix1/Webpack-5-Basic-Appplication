@@ -1,6 +1,6 @@
-# Webpack 5 Crash Course | Frontend Development Setup
+# Webpack 5 | Frontend Development Setup
 
-This is a project by Brad Traversy from Traversy Media
+Webpack Basics
 
 ## Objectives
 
